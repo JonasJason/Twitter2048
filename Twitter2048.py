@@ -4,7 +4,6 @@
 # - Score board - add whatever was merged
 # - New game?
 # - Show game over/out of moves
-# - Put on github
 # - Condense logic of up/down by using left/right
 
 
