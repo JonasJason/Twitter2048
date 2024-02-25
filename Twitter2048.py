@@ -5,6 +5,7 @@
 # - New game?
 # - Show game over/out of moves
 # - Condense logic of up/down by using left/right
+# - learn how to actually use git
 
 
 
