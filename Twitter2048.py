@@ -6,6 +6,7 @@
 # - Show game over/out of moves
 # - Condense logic of up/down by using left/right
 # - learn how to actually use git
+# - Logic to do nothing/not add another number if a move would result in no change
 
 
 
